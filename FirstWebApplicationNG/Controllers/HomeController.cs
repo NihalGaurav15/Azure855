@@ -15,7 +15,7 @@ namespace FirstWebApplicationNG.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Nihal's page.";
+            ViewBag.Message = "Nihal's page updated one";
 
             return View();
         }
